@@ -1,5 +1,4 @@
 function forLoop(a){
-  a = [];
   for(let j=0; j<25; j++){
     if(j===1){
       a.push("I am 1 strange loop")
