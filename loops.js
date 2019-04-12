@@ -3,11 +3,8 @@ function forLoop(a){
     if(j===1){
       a.push("I am 1 strange loop")
     }
-    else if(j>1){
+    else{
       a.push(`I am ${j} strange loops.`)
-    }
-    else if(j===0){
-      
     }
   }
 }
