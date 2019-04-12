@@ -16,3 +16,6 @@ function whileLoop(number){
   console.log("done")
 }
 
+function doWhileLoop(integer){
+  
+}
