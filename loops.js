@@ -4,7 +4,7 @@ function forLoop(a){
       a.push("I am 1 strange loop")
     }
     else{
-      a.push("I am ${j} strange loops.")
+      a.push(`I am ${j} strange loops.`)
     }
   }
 }
