@@ -15,3 +15,4 @@ function whileLoop(number){
   }
   console.log("done")
 }
+
