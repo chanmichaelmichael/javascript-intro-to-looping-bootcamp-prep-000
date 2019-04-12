@@ -23,5 +23,8 @@ function incrementVariable() {
 }
 
 function doWhileLoop(integer){
-  
+  do {
+    console.log("I ")
+  }
+  while{}
 }
