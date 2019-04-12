@@ -7,6 +7,7 @@ function forLoop(a){
       a.push(`I am ${j} strange loops.`)
     }
   }
+  return a
 }
 
 function whileLoop(number){
